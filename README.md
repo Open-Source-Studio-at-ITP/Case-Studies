@@ -22,9 +22,9 @@ On the first day of class, students will be placed into groups of 2. Each group 
   * Wenhe, Jinzhong: Redux
 * Week 4: Sept 25
   * Ilana, Hadar
-  * Krizia, Ahmad
+  * Min Pu, Ahmad
 * Week 5: Oct 2
-  * Chuyi, Jesse
+  * Lin, Guillermo
   * Luna, Camille
 * Week 6: Oct 16
   * Nicolas, Alice
