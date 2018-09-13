@@ -51,3 +51,4 @@ On the first day of class, students will be placed into groups of 2. Each group 
 
 ### Other
 * [Open Source Judaism](https://en.wikipedia.org/wiki/Open-source_religion#Open-source_Judaism)
+* [Open Source Films](https://en.wikipedia.org/wiki/Open-source_film)
