@@ -19,7 +19,9 @@ On the first day of class, students will be placed into groups of 2. Each group 
 * Week 2: Sept 11
   * Jiwon, James: [Blender](CS01-Blender.md)
 * Week 3: Sept 18
-  * Wenhe, Jinzhong: Redux
+  * Wenhe, Jinzhong: React / Redux
+    - [Documentation](CS02-React&Redux.md)
+    - [Presentation](https://docs.google.com/presentation/d/1fNQSZ81tIr912MvRplSNfC-eIMfX0C0n-olfPva2TS4/edit?usp=sharing)
 * Week 4: Sept 25
   * Ilana, Hadar
   * Min Pu, Ahmad
