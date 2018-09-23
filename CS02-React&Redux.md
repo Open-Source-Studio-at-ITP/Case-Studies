@@ -26,9 +26,13 @@
 - Facebook
 - Community
     - React: 1240 Contributors
+    - Around 30% of the contributors are from Facebook
     - ![](https://i.imgur.com/IpgTIFL.png)
     - Redux: 613 Contributors
+    - Around 11% of the contributors are from Facebook
     - ![](https://i.imgur.com/Ew7q7ed.png)
+    
+    - Note: All the data are from Github and Github API
 
 
 ### 4. Describe the project's funding. Is it funded? What kinds of support does it get?
@@ -47,7 +51,7 @@
     - [Stackoverflow](https://stackoverflow.com/questions/tagged/reactjs) 66.2k Watchers 100.9k Questions
     - [Reddit](https://www.reddit.com/r/reactjs/) 69.4k Subscribers
     - Others: 
-    [DEV’s React community](https://dev.to/t/react) | [Hashnode’s React community](https://hashnode.com/n/reactjs) | [Spectrum’s React community](https://spectrum.chat/react)
+    [DEV’s React community](https://dev.to/t/react) | [Hashnode’s React community](https://hashnode.com/n/reactjs) | [Spectrum’s React community](https://spectrum.chat/react)|[ReactJS Girls](https://twitter.com/reactjsgirls)
 
 - **Redux**
     - [Stackoverflow](https://stackoverflow.com/questions/tagged/redux) 9.6k Watchers 15.4k Questions
@@ -78,15 +82,28 @@
 
 ### 8. Does the project have a license? Why was the license chosen?
 
-- MIT (Be free and opened to everyone and every project whether it is commercial or not)
-- To be an universally popular frontend framework.
-- To be engaged by everyone.
-- *[Redux]* To convey the stateful concept to everyone. (Such as for Angular(NgRx), Vue(Vuex), etc.)
+- The initial public release of React in May 2013 used a standard Apache License 2.0.
+- In October 2014, React 0.12.0 replaced this with a 3-clause BSD license and added a separate PATENTS text file that permits usage of any Facebook patents related to the software.
+    - Detail of the patent texts:
+         - "The license granted hereunder will terminate, automatically and without notice, for anyone that makes any claim (including by           filing any lawsuit, assertion or other action) alleging (a) direct, indirect, or contributory infringement or inducement to               infringe any patent: (i) by Facebook or any of its subsidiaries or affiliates, whether or not such claim is related to the               Software, (ii) by any party if such claim arises in whole or in part from any software, product or service of Facebook or any             of its subsidiaries or affiliates, whether or not such claim is related to the Software, or (iii) by any party relating to the           Software; or (b) that any right in any patent claim of Facebook is invalid or unenforceable."
+   - Based on community feedback, Facebook updated the patent grant in April 2015 to be less ambiguous and more permissive:
+
+        - "The license granted hereunder will terminate, automatically and without notice, if you (or any of your subsidiaries, corporate           affiliates or agents) initiate directly or indirectly, or take a direct financial interest in, any Patent Assertion: (i)                 against Facebook or any of its subsidiaries or corporate affiliates, (ii) against any party if such Patent Assertion arises in           whole or in part from any software, technology, product or service of Facebook or any of its subsidiaries or corporate                   affiliates, or (iii) against any party relating to the Software. [...] A "Patent Assertion" is any lawsuit or other action               alleging direct, indirect, or contributory infringement or inducement to infringe any patent, including a cross-claim or                 counterclaim."
+
+- Finally, on September 23, 2017, Facebook replaced with MIT (Be free and opened to everyone and every project whether it is commercial or not)
+   - What we can get from MIT License:
+        - To be an universally popular frontend framework.
+        - To be engaged by everyone.
+        - *[Redux]* To convey the stateful concept to everyone. (Such as for Angular(NgRx), Vue(Vuex), etc.
+- Besides, the License, all contributor need to sign a Facebook [CLA](https://code.facebook.com/cla)(Contributor Lcense Agreement)
+- For more detail, refer to [Wiki](https://en.wikipedia.org/wiki/React_(JavaScript_library)#Licensing_controversy)
 
 ### 9. Evaluate the project's approach to equity, diversity, and inclusion in its community. 
 
+
 - Since the React became open source, it has become a holistic framework. There is not so many features developpers can contribute to. And there is little offical endorsed or third party translation ongoing. Even the offical tutorial is very clear from a newbie aspect. 
-- But due to the high volumn of useages, there are alot of friendly communities that help popularize them.
+- But due to the high volumn of useages, there are alot of friendly communities that help popularize them. In this case, we can see that the third-party communities and developers are relatively diversive. In addition, they also have diversity groups like [ReactJS Girls](https://twitter.com/reactjsgirls) showing the diversity of the third-party community.
+- From another point, the diversity I understand for React is that React actually brings web development to the whole stack of hybrid development. It highlights the concept of ES6 Class to embrace the combination of OOP programming, which is a breakthrough for it connects Native App concept with Web. This promotion is largely welcomed by both Web Community and Native App Community as it simplifies (or more accurately standardizes) the program standard in Web. And this is also a very important reason why it has larger community than most of other JS Library communities.
 
 ### 10. Is the project still active? Why or why not?
 
