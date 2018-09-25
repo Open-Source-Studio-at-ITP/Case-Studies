@@ -29,7 +29,7 @@ On the first day of class, students will be placed into groups of 2. Each group 
   * Lin, Guillermo
   * Luna, Camille
 * Week 6: Oct 16
-  * Nicolas, Alice
+  * Nicolas, Alice: [three.js](https://threejs.org/)
   * Emma, Amitabh
 
 ## Ideas for Case Studies
