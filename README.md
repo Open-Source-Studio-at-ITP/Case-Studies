@@ -24,7 +24,7 @@ On the first day of class, students will be placed into groups of 2. Each group 
        - [Presentation](https://docs.google.com/presentation/d/1fNQSZ81tIr912MvRplSNfC-eIMfX0C0n-olfPva2TS4/edit?usp=sharing)
 * Week 4: Sept 25
   * Ilana, Hadar
-  * MingPu, Ahmad: Wordpress
+  * MingPu, Ahmad: [Wordpress](https://docs.google.com/presentation/d/10gJX1UycPQoSf9W-WpMimYk2Px_RgQbZpBVGdPr7Uw0/edit?usp=sharing)
 * Week 5: Oct 2
   * Lin, Guillermo
   * Luna, Camille
