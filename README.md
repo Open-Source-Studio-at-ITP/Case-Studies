@@ -26,10 +26,11 @@ On the first day of class, students will be placed into groups of 2. Each group 
   * Ilana, Hadar
   * MingPu, Ahmad: [Wordpress](https://docs.google.com/presentation/d/10gJX1UycPQoSf9W-WpMimYk2Px_RgQbZpBVGdPr7Uw0/edit?usp=sharing)
 * Week 5: Oct 2
-  * Lin, Guillermo
   * Luna, Camille [OpenStreetMaps](https://www.openstreetmap.org/about)
 * Week 6: Oct 16
+  * Lin, Guillermo
   * Nicolas, Alice: [three.js](https://threejs.org/)
+* Week 7: Oct 23
   * Emma, Amitabh
 
 ## Ideas for Case Studies
