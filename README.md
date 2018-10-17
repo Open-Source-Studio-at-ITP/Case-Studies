@@ -30,7 +30,7 @@ On the first day of class, students will be placed into groups of 2. Each group 
   * Luna, Camille [OpenStreetMaps](https://www.openstreetmap.org/about)
 * Week 6: Oct 16
   * Lin, Guillermo
-  * Nicolas, Alice: [three.js](https://threejs.org/)
+  * Nicolas, Alice: [three.js](https://threejs.org/) - [presentation](https://docs.google.com/presentation/d/12HrrSnFpWByxBHR5KuOA50zPJqWcw741pWt4ekSVAyk/)
 * Week 7: Oct 23
   * Emma, Amitabh
 
