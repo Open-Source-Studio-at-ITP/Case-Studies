@@ -32,7 +32,7 @@ On the first day of class, students will be placed into groups of 2. Each group 
   * Lin, Guillermo
   * Nicolas, Alice: [three.js](https://threejs.org/) - [presentation](https://docs.google.com/presentation/d/12HrrSnFpWByxBHR5KuOA50zPJqWcw741pWt4ekSVAyk/)
 * Week 7: Oct 23
-  * Emma, Amitabh
+  * Emma, Amitabh [OpenROV](https://docs.google.com/presentation/d/1LntQFI15rhjOBmekODx7WxzKNFm511B4qf9Z4q8Vro4/edit?usp=sharing)
 
 ## Ideas for Case Studies
 
